@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  color: firebrick;
+  margin: 0;
+}
+header{
+  background-color: crimson;
+  color: white;
+  padding: 25px 100px;
+  font-family:'Atomic Age', cursive;
+}
