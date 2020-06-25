@@ -11,6 +11,10 @@ header{
   color:white;
   padding: 25px 100px
 }
+header{
+    font-family: 'Atomic Age', cursive;
+}
 h1{
   color:firebrick;
+    font-family: 'Atomic Age', cursive;
 }
