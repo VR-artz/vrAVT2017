@@ -14,6 +14,13 @@ header{
 header{
   font-family: 'Atomic Age', cursive;
 }
+nav{
+  font-size: 15px;
+  text-align: center;
+}
+li{
+  display: inline;
+}
 p{
   color: white;
 }
