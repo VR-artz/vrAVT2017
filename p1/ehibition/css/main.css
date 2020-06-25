@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  color: firebrick;
+  margin:0;
+}
+header{
+  background-color: crimson;
+  color: white;
+}
+p{
+  color: white;
+}
+h2{
+  color: white;
+}
