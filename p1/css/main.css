@@ -11,8 +11,22 @@ h1{
   padding: 25px 100px;
 }
 h1{
+  font-size: 186px;
   font-family: 'Atomic Age', cursive;
+  text-align: center;
 }
 h2{
+  font-size: 100px;
   font-family: 'Atomic Age', cursive;
+}
+nav{
+  font-size: 62px;
+  text-align: center;
+}
+li{
+  display: inline;
+}
+img{
+  width: 2500px;
+  height: 2000px;
 }
