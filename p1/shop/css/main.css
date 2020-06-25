@@ -3,17 +3,14 @@
 }
 body{
   background-color: black;
-  color: firebrick;
-  margin:0;
+  color: white;
+  margin: 0;
 }
 header{
   background-color: crimson;
-  color: white;
+  color:white;
   padding: 25px 100px
 }
-p{
-  color: white;
-}
-h2{
-  color: white;
+h1{
+  color:firebrick;
 }
