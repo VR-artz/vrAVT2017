@@ -10,5 +10,7 @@ header{
   background-color: crimson;
   color: white;
   padding: 25px 100px;
-  font-family:'Atomic Age', cursive;
+}
+header{
+  font-family: 'Atomic Age', cursive;
 }
