@@ -13,13 +13,45 @@ header{
 }
 header{
     font-family: 'Atomic Age', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+li{
+  display: inline;
 }
 h1{
     font-family: 'Atomic Age', cursive;
+    font-size: 50px;
+    text-align: center;
 }
 p{
   color: white;
+  text-align: center;
 }
 h2{
   color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.image1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 500px;
+}
+.image2{
+  width: 450px;
+  height: 600px;
+}
+.image3{
+  width: 450px;
+  height: 600px;
+}
+.image4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 500px;
 }
