@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  overflow-x:hidden;
+}
+main{
+  width: 120vw;
+  margin:-20vw;
+}
+.shape1{
+  width: 100px;
+  height: 100px;
+  background-color: lemonchiffon;
+  float: left;
+
+}
+.shape2{
+  width: 100px;
+  height: 100px;
+  background-color: thistle;
+  float:left;
+}
+.shape3{
+  width: 100px;
+  height: 100px;
+  background-color: honeydew;
+  float: left;
+}
