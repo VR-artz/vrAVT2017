@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+.boad{
+  width: 800px;
+  margin: 50px auto;
+}
+.pink{
+  width: 100;
+  height: 100;
+  background-color: pink;
+  float: left;
+}
+.green{
+  width: 100;
+  height: 100;
+  background-color: green;
+  float: left;
+}

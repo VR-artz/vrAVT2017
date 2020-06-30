@@ -3,12 +3,12 @@ body{
   overflow-x:hidden;
 }
 main{
-  width: 120vw;
+  width: 150vw;
   margin:-20vw;
 }
 .shape1{
-  width: 100px;
-  height: 100px;
+  width: 500px;
+  height: 500px;
   background-color: lemonchiffon;
   float: left;
 
@@ -20,8 +20,8 @@ main{
   float:left;
 }
 .shape3{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   background-color: honeydew;
   float: left;
 }
