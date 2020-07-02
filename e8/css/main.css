@@ -61,3 +61,93 @@ main{
   float: left;
   margin-right: -70px;
 }
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+main{
+  width: 200vw;
+  margin: -50;
+}
+.shape7{
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+  float:left;
+  margin-right: -70px;
+}
+.shape8{
+  width: 250px;
+  height: 200px;
+  background-color: teal;
+  float: left;
+  margin-right: -70px;
+}
+.shape9{
+  width: 400px;
+  height: 200px;
+  background-color: honeydew;
+  float: left;
+  margin: -50px;
+  opacity: 60px;
+}
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+main{
+  width: 200vw;
+  margin: -50;
+}
+.shape10{
+  width: 200px;
+  height: 200px;
+  background-color: darkseagreen;
+  float:left;
+  margin-right: -50x;
+}
+.shape11{
+  width: 250px;
+  height: 150px;
+  background-color: lightsalmon;
+  float: left;
+  margin-right: -50px;
+}
+.shape12{
+  width: 400px;
+  height: 500px;
+  background-color: olive;
+  float: left;
+  margin: -50px;
+  opacity: 60px;
+}
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+main{
+  width: 200vw;
+  margin: -50;
+}
+.shape13{
+  width: 1000px;
+  height: 350px;
+  background-color: mediumslateblue;
+  float:left;
+  margin-right: -50x;
+}
+.shape14{
+  width: 250px;
+  height: 500px;
+  background-color: chartreuse;
+  float: left;
+  margin-right: -50px;
+}
+.shape15{
+  width: 400px;
+  height: 500px;
+  background-color: aqua;
+  float: left;
+  margin: -50px;
+  opacity: 60px;
+}
