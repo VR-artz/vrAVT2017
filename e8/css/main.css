@@ -1,27 +1,49 @@
+}
 body{
   margin: 0;
   overflow-x:hidden;
 }
 main{
-  width: 150vw;
-  margin:-20vw;
+  width: 200vw;
+  margin: -50px;
 }
 .shape1{
-  width: 500px;
-  height: 500px;
+  box-sizing: border-box;
+  width: 400px;
+  height: 200px;
   background-color: lemonchiffon;
   float: left;
-
+  margin: -50px;
+  opacity: 100px;
 }
 .shape2{
-  width: 100px;
-  height: 100px;
-  background-color: thistle;
-  float:left;
+  width: 400px;
+  height: 200px;
+  background-color: crimson;
+  float: left;
+  margin: -50px;
+  opacity: 100px;
 }
 .shape3{
-  width: 150px;
-  height: 150px;
+  width: 400px;
+  height: 200px;
   background-color: honeydew;
   float: left;
+  margin: -50px;
+  opacity: 60px;
+}
+.shape4{
+  width: 100px;
+  height: 100px;
+  background-color: palevioletred;
+}
+.shape5{
+  width: 100px;
+  height: 100px;
+  background-color: aliceblue;
+}
+.shape6{
+  width: 100px;
+  height: 100px;
+  background-color: teal;
 }
