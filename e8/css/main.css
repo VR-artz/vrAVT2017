@@ -32,18 +32,32 @@ main{
   margin: -50px;
   opacity: 60px;
 }
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+main{
+  width: 200vw;
+  margin: -50;
+}
 .shape4{
   width: 100px;
-  height: 100px;
+  height: 150px;
   background-color: palevioletred;
+  float: left;
+  margin-right: -70px;
 }
 .shape5{
   width: 100px;
   height: 100px;
   background-color: aliceblue;
+  float:left;
+  margin-right: -70px;
 }
 .shape6{
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 200px;
   background-color: teal;
+  float: left;
+  margin-right: -70px;
 }
