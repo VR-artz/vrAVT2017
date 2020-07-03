@@ -3,6 +3,7 @@
 }
 body{
   margin: 0;
+  background-color: darkolivegreen;
 }
 .board{
   width: 800px;
@@ -11,12 +12,53 @@ body{
 .pink{
   width: 100px;
   height: 100px;
-  background-color: pink;
+  background-color: moccasin;
   float: left;
 }
 .green{
   width: 100px;
   height: 100px;
-  background-color: green;
+  background-color: indigo;
   float: left;
+}
+body{
+  margin: 0;
+  background-color: firebrick;
+}
+.colum{
+  width: 800px;
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
+div{
+  float:right;
+}
+header{
+  background-color:black;
+  padding: 25px 100px;
+  margin-bottom:  20px;
+}
+.colum1{
+  width: 200px;
+  height: 500px;
+  background-color: black;
+  margin-right: 50px;
+}
+.colum2{
+  width: 200px;
+  height: 500px;
+  background-color: white;
+  margin-right: 50px;
+}
+.colum3{
+  width: 200px;
+  height: 500px;
+  background-color: black;
+  margin-right: 50px;
+}
+footer{
+  background-color:black;
+  padding: 25px 100px;
+margin-top: 535px;
 }
