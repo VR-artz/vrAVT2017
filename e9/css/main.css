@@ -62,3 +62,52 @@ footer{
   padding: 25px 100px;
 margin-top: 535px;
 }
+body{
+  margin: 0;
+  background-color: firebrick;
+}
+.colum{
+  width: 800px;
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
+div{
+  float:right;
+}
+header{
+  background-color:black;
+  padding: 25px 100px;
+  margin-bottom:  20px;
+}
+.big1{
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  float: left;
+}
+.small1{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin-bottom: 50px;
+}
+.big2{
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  margin-top: 500px;
+  float: right;
+}
+.small2{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  margin-top: 500px;
+  margin-left: 50px;
+  }
+footer{
+  background-color:black;
+  padding: 25px 100px;
+margin-top: 535px;
+}
