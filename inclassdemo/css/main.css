@@ -7,6 +7,9 @@ body{
 }
 .layout{
   width:475px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 400px;
 }
 div{
   width:375px;
@@ -34,17 +37,32 @@ div{
   margin-right: 25px;
   margin-bottom:25px;
   background-color: teal;
+  }
 .large1{
   width:100px;
   height: 225px;
-  margin: 25px;
+  margin-bottom: 25px;
   float: left;
-  margin-bottom:25px;
+  background-color: teal;
+}
+div{
+  width: 475px;
+}
+.small1{
+  width: 100px;
+  height: 100px;
+  margin-right: 25px;
+  background-color: teal;
+}
+.large2{
+  width:225px;
+  height: 100px;
+  margin-right: 25px;
   background-color: teal;
 }
 .small2{
   width: 100px;
   height: 100px;
-  float: left;
+  float:left;
   background-color: teal;
 }
