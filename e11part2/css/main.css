@@ -1,0 +1,109 @@
+body{
+  background-color: lightgreen;
+  margin: 0;
+  }
+h1{
+  font-size: 80px;
+  margin-left: 25px;
+  margin-right: 25px;
+  color: deeppink;
+}
+h2{
+  font-size: 70px;
+  color: black;
+  margin-left: 80px;
+}
+h3{
+  font-size: 50px;
+  margin-right: 725px;
+  float:right;
+  color: deeppink;
+  }
+p{
+  font-size: 14px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 15px;
+  float: right;
+}
+@media screen and (max-width: 1440px){
+  body{
+    background-color: lavender;
+  }
+  h3{
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+}
+@media screen and (max-width: 1315px){
+  body{
+    background-color: powderblue;
+  }
+  h1{
+    color: limegreen;
+  }
+  h2{
+    color: black;
+  }
+  h3{
+    margin-left: 400px;
+    margin-right: 400px;
+    color: limegreen;
+  }
+}
+@media screen and (max-width:953px){
+  body{
+    background-color: mediumpurple;
+  }
+  h1{
+    color:white;
+    font-size: 50px;
+  }
+  h2{
+    font-size: 100px;
+    color:gold;
+  }
+  h3{
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+}
+@media screen and (max-width: 770px){
+  body{
+    background-color: navajowhite;
+  }
+  h1{
+    font-size: 100px;
+    color: darkviolet;
+  }
+  h2{
+    font-size: 50px;
+    color: indigo;
+  }
+  h3{
+    color:darkviolet;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
+@media screen and (max-width: 452px){
+  body{
+    background-color: darkslategrey;
+  }
+  h1{
+    font-size: 30px;
+    color: aliceblue;
+  }
+  h2{
+    color:darkseagreen;
+    margin-left: 50px;
+  }
+  h3{
+    font-size: 50px;
+    color: white;
+  }
+  p{
+    color: aliceblue;
+  }
+}
