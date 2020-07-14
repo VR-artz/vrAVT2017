@@ -6,11 +6,9 @@ body{
   color: firebrick;
   margin: 0;
 }
-h1{
+.velvetvelvet{
   color: Crimson;
   padding: 25px 100px;
-}
-h1{
   font-size: 100px;
   font-family: 'Atomic Age', cursive;
   text-align: center;
@@ -18,6 +16,8 @@ h1{
 h2{
   font-size: 50px;
   font-family: 'Atomic Age', cursive;
+  margin-right: 1100px;
+  margin-bottom: 100px;
 }
 nav{
   font-size: 30px;
@@ -28,5 +28,73 @@ li{
 }
 img{
   width: 500px;
-  height: 450px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*about page starts here*/
+header{
+  background-color: Crimson;
+  color: black;
+  padding: 25px 100px;
+  font-family: 'Atomic Age', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+nav{
+  font-size: 30px;
+  text-align: center;
+}
+li{
+  display: inline;
+}
+p{
+  color: white;
+}
+h1{
+  font-family: 'Atomic Age', cursive;
+}
+/*Exhibition page*/
+h1{
+    font-family: 'Atomic Age', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+  color: white;
+  text-align: center;
+}
+h2{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.image1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 500px;
+}
+.image2{
+  width: 450px;
+  height: 600px;
+}
+.image3{
+  width: 450px;
+  height: 600px;
+}
+.image4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 500px;
+}
+/*shop page*/
+h1{
+  color:firebrick;
+    font-family: 'Atomic Age', cursive;
+    font-size: 50px;
+    text-align: center;
 }
