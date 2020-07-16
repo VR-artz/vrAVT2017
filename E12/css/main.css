@@ -1,0 +1,21 @@
+body{
+  background-color: lightgrey;
+}
+.base-left{
+  width:800px;
+  height: 400px;
+  margin: auto;
+}
+.left{
+  width:100px;
+  height:200px;
+  background-color: blue;
+  margin-top: 100px;
+}
+.base-center{
+  width:400px;
+  height:200px;
+  margin: auto;
+  margin-bottom: 1000px;
+  background-color: darkgrey;
+}
