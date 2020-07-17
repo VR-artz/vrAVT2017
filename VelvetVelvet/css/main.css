@@ -13,7 +13,7 @@ body{
   font-family: 'Atomic Age', cursive;
   text-align: center;
 }
-h2{
+.local{
   font-size: 50px;
   font-family: 'Atomic Age', cursive;
   margin-right: 1100px;
@@ -53,9 +53,28 @@ li{
 }
 p{
   color: white;
+  text-align: left;
 }
 h1{
   font-family: 'Atomic Age', cursive;
+}
+.about{
+  width: 500px;
+  height: 500px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  float: left;
+}
+.hours{
+  width: 500px;
+  height: 500px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  float: right;
 }
 /*Exhibition page*/
 h1{
@@ -101,12 +120,11 @@ h1{
     font-size: 50px;
     text-align: center;
 }
-.shop-image{
+.shop-text1{
+  width:100px;
+  height:100px;
+}
+.shop-image1{
   width:200px;
   height:200px;
-  grid-template-columns: 100px 50px 100px;
-  grid-template-rows: 80px auto 80px;
-  column-gap: 100px;
-  row-gap: 200px;
-  justify-content: center;
 }
