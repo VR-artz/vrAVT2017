@@ -1,21 +1,25 @@
 body{
-  background-color: lightgrey;
+  margin: 0;
+  padding:0;
+  background-color: teal;
 }
-.base-left{
-  width:800px;
-  height: 400px;
-  margin: auto;
+.logo{
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(50% 50%);
+  background-color: salmon;
+  width: 208px;
+  height: 198px;
+  border-radius: 50% 50% 41% 41% / 42% 42% 75% 75%;
 }
-.left{
-  width:100px;
-  height:200px;
-  background-color: blue;
-  margin-top: 100px;
-}
-.base-center{
-  width:400px;
-  height:200px;
-  margin: auto;
-  margin-bottom: 1000px;
-  background-color: darkgrey;
+.leaf{
+  background-color: salmon;
+  content: "";
+  width:55px;
+  height:55px;
+  position: absolute;
+  margin: -51px 0 0 100px;
+  border-radius: 100px 0;
+  z-index: 5;
 }
