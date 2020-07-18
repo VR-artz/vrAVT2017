@@ -27,8 +27,8 @@ li{
   display: inline;
 }
 img{
-  width: 500px;
-  height: 500px;
+  width: 300px;
+  height: 300px;
   grid-template-columns: 100px 50px 100px;
   grid-template-rows: 80px auto 80px;
   column-gap: 100px;
@@ -117,6 +117,78 @@ h2{
 h1{
   color:firebrick;
     font-family: 'Atomic Age', cursive;
-    font-size: 50px;
+    font-size: 80px;
     text-align: center;
+}
+.shop-image1{
+  overflow: hidden;
+  width: 1500px;
+  height: 550px;
+  margin-top: 200px;
+}
+.inner{
+  overflow: hidden;
+  width: 1500px;
+  height: 550px;
+}
+.img1{
+  width:50px;
+  height:50px;
+  margin-left: 150px;
+  float:left;
+}
+.img2{
+  width:50px;
+  height:50px;
+  margin-right: 400px;
+  margin-left: 400px;
+  float: left;
+}
+.img3{
+  width:50px;
+  height:50px;
+  float: left;
+}
+.shop-text1{
+  font-size: 25px;
+  text-align: left;
+  float:left;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.price1{
+  font-size: 25px;
+  text-align: left;
+  float:left;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.shop-image1{
+  overflow: hidden;
+  width: 1500px;
+  height: 550px;
+  margin-top: 200px;
+}
+.inner2{
+  overflow: hidden;
+  width: 1500px;
+  height: 550px;
+}
+.img4{
+  width:50px;
+  height:50px;
+  margin-left: 150px;
+  float:left;
+}
+.img5{
+  width:50px;
+  height:50px;
+  margin-right: 400px;
+  margin-left: 400px;
+  float: left;
+}
+.img6{
+  width:50px;
+  height:50px;
+  float: left;
 }
