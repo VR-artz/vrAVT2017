@@ -5,21 +5,38 @@ body{
 }
 .logo{
   left: 50%;
-  top: 50%;
-  position: absolute;
-  transform: translate(50% 50%);
+  top: 300px;
+  position: relative;
   background-color: salmon;
   width: 208px;
   height: 198px;
-  border-radius: 50% 50% 41% 41% / 42% 42% 75% 75%;
+  border-radius: 50%;
 }
 .leaf{
   background-color: salmon;
-  content: "";
   width:55px;
   height:55px;
   position: absolute;
-  margin: -51px 0 0 100px;
   border-radius: 100px 0;
   z-index: 5;
+  top: -50px;
+  left: 300px;
+}
+.divot{
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  border-radius: 50%;
+  position:absolute;
+  top: -33px;
+  left: 0px;
+}
+.bite{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 40px;
+
 }
