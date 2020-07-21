@@ -9,13 +9,16 @@ body{
 .velvetvelvet{
   color: Crimson;
   padding: 25px 100px;
-  font-size: 100px;
-  font-family: 'Atomic Age', cursive;
+  font-family: magneto, sans-serif;
+  font-style: normal;
+  font-weight: 700;
   text-align: center;
 }
 .local{
   font-size: 50px;
-  font-family: 'Atomic Age', cursive;
+  font-family: magneto, sans-serif;
+  font-style: normal;
+  font-weight: 700;
   margin-right: 1100px;
   margin-bottom: 100px;
 }
@@ -27,13 +30,16 @@ li{
   display: inline;
 }
 img{
-  width: 300px;
-  height: 300px;
+  width: 450px;
+  height: 450px;
   grid-template-columns: 100px 50px 100px;
   grid-template-rows: 80px auto 80px;
   column-gap: 100px;
   row-gap: 200px;
   justify-content: center;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
 }
 /*about page starts here*/
 header{
@@ -56,7 +62,9 @@ p{
   text-align: left;
 }
 h1{
-  font-family: 'Atomic Age', cursive;
+  font-family: magneto, sans-serif;
+  font-style: normal;
+  font-weight: 700;
 }
 .about{
   width: 500px;
@@ -70,14 +78,14 @@ h1{
 .hours{
   width: 500px;
   height: 500px;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-bottom: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:50px;
+  margin-bottom:50px;
   float: right;
 }
 /*Exhibition page*/
 h1{
-    font-family: 'Atomic Age', cursive;
     font-size: 50px;
     text-align: center;
 }
@@ -115,9 +123,11 @@ h2{
 /*shop page*/
 h1{
   color:firebrick;
-    font-family: 'Atomic Age', cursive;
-    font-size: 80px;
-    text-align: center;
+  font-family: magneto, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  text-align: center;
 }
 .shop-image1{
   overflow: hidden;
