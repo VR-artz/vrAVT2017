@@ -13,14 +13,28 @@ body{
   font-style: normal;
   font-weight: 700;
   text-align: center;
+  margin-top: 20px;
+  margin-top: 20px;
+}
+hr{
+  background-color: white;
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
 }
 .local{
+  margin-right: 1100px;
+  margin-bottom: 100px;
+}
+.title{
   font-size: 50px;
   font-family: magneto, sans-serif;
   font-style: normal;
   font-weight: 700;
-  margin-right: 1100px;
-  margin-bottom: 100px;
 }
 nav{
   font-size: 30px;
@@ -28,6 +42,7 @@ nav{
 }
 li{
   display: inline;
+  color: white;
 }
 .gallery img{
   width: 450px;
@@ -85,21 +100,6 @@ h1{
   float: right;
 }
 /*Exhibition page*/
-.info2{
-  width: 50px;
-  height:50px;
-  display: block;
-  float: left;
-}
-.artist2{
-  float: right;
-}
-.info3{
-  width: 50px;
-  height:50px;
-  display: block;
-  float: right;
-}
 h1{
     font-size: 50px;
     text-align: center;
@@ -121,12 +121,18 @@ h2{
   height: 500px;
 }
 .image2{
+  display: block;
   width: 450px;
   height: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .image3{
+  display: block;
   width: 450px;
   height: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .image4{
   display: block;
