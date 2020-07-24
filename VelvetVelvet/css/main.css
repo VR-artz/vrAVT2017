@@ -151,13 +151,17 @@ h1{
   text-align: center;
 }
 .shop-image1{
-  width: 90%;
-  margin-top: 200px;
+  width: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flow-root;
 }
 .inner{
   width: 100%;
-  margin: 50px;
-  display:flow-root;
+  display: flex;
+  align-items: baseline;
 }
 .img1{
   width: calc((100% - 100px) / 3);
@@ -182,4 +186,6 @@ img{
   color: Crimson;
   margin-left: 50px;
   margin-right: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
